@@ -1,4 +1,4 @@
-# erzhongganfanren.github.io
+# let-us-guess-the-word
 a ez game
 食用注意事项：
 1.用单词表的存储路径替换wordlist后的引号部分
